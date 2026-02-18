@@ -2,7 +2,7 @@
 
 This repository contains solutions to six real-world data processing problems using Python. The assignment focuses on applying core Python data structures like **dictionaries, lists, tuples, and strings** to solve practical scenarios.
 
-## 🚀 Problem Statements
+## Problem Statements
 
 ### 1. Employee Performance Bonus Eligibility
 Identifies top-performing employees by finding the highest score and handling ties.
