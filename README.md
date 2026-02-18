@@ -27,11 +27,3 @@ Calculates average daily sales and flags days where sales exceed a specific thre
 ### 6. Duplicate User ID Detection
 Scans a registration list to identify and count duplicate User IDs to ensure data integrity.
 * **Key Concept:** Frequency counting and dictionary iteration.
-
----
-
-## 🛠️ How to Run
-1. Ensure you have **Python 3.x** installed on your system.
-2. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/python-data-assignment.git](https://github.com/YOUR_USERNAME/python-data-assignment.git)
